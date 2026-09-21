@@ -10,6 +10,12 @@ I am open to software engineering roles, consulting engagements, and product col
 
 ## Recent projects
 
+### [WooCommerce (WordPress) to LiteCart Migration](https://www.litecart.net/en/addons/891/en-woocommerce-wordpress-to-litecart-migration)
+
+A guided and resumable migration tool that moves established WooCommerce stores to LiteCart through the official WooCommerce REST API. It supports products, variations, images, customers, orders, coupons, reviews, refunds, downloads, relationships, and selected metadata, with preview mode, background processing, checkpoints, incremental synchronization, verification reports, and guarded rollback. The migration engine has been tested with a synthetic catalog of 500,000 products.
+
+`PHP` `WooCommerce REST API` `MySQL/MariaDB` `Background processing` `Data migration` `E-commerce`
+
 ### [Partial Order Rescue for LiteCart](https://www.litecart.net/en/addons/890/en-partial-order-rescue)
 
 An e-commerce operations add-on that turns insufficient-stock cart failures into a structured partial-fulfillment and restock-request workflow. It includes operational queues, staff assignment, supplier purchase orders, PDF and Excel exports, barcode scanning, inventory auditing, and secure commercial licensing.
