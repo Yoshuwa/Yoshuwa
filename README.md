@@ -10,6 +10,12 @@ I am open to software engineering roles, consulting engagements, and product col
 
 ## Recent projects
 
+### [EU Legal Guarantee Notice & GARAN Label](https://www.litecart.net/en/addons/892/en-eu-legal-guarantee-notice-garan-label)
+
+A LiteCart add-on for presenting the EU legal guarantee notice and managing product-level GARAN labels. It supports all 24 official EU languages, automatically follows the storefront language, provides language-specific destination URLs, and includes searchable, database-paginated catalog management with filtered bulk updates. Installation uses a vMod, so merchants do not need to edit their storefront theme manually.
+
+`PHP` `LiteCart` `EU consumer information` `Localization` `Catalog management` `E-commerce`
+
 ### [WooCommerce (WordPress) to LiteCart Migration](https://www.litecart.net/en/addons/891/en-woocommerce-wordpress-to-litecart-migration)
 
 A guided and resumable migration tool that moves established WooCommerce stores to LiteCart through the official WooCommerce REST API. It supports products, variations, images, customers, orders, coupons, reviews, refunds, downloads, relationships, and selected metadata, with preview mode, background processing, checkpoints, incremental synchronization, verification reports, and guarded rollback. The migration engine has been tested with a synthetic catalog of 500,000 products.
